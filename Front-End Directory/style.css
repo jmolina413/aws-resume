@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.headshot {
+    width: 150px;
+    height: auto;
+    border-radius: 75px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#timeline {
+    display: none; 
+}
